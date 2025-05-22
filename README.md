@@ -1,7 +1,9 @@
 # [I'm Klajd <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/klajdkaraj/)
 
-I am a London based software developer focused on Python programming, data science and engineering, and ML.<br/>
-I hold a BEng in electronic engineering & computing.<br/>
+I am a London-based software developer experienced in Python programming and data science.<br/>
+I hold a Bachelor of Engineering in Electronic Engineering and Computing.
+
+<br/>
 
 # 💻 Tech Stack
 
