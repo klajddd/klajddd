@@ -1,6 +1,6 @@
 # [I'm Klajd <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/klajdkaraj/)
 
-I am a London-based software developer experienced in Python programming and data science.<br/>
+I am a London-based software developer experienced in Python programming and data science & engineering.<br/>
 I hold a Bachelor of Engineering in Electronic Engineering and Computing.
 
 <br/>
